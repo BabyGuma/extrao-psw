@@ -1,0 +1,97 @@
+.contenedor1{
+    margin-right: 10vw;
+    display: grid;
+    place-items: center;
+    color: #f30e0e;
+    border-radius: 1vh;
+    border-color: #d8216d;
+    border-style: solid;
+    margin: 0vw;
+    background-color: aqua;
+
+}
+.input {
+    font-size: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1vh 0 1vh 0;
+}
+
+.icon-input{
+    font-size: 2.5vh;
+    padding: 0 1vw;
+}
+
+.icon-input1{
+    font-size: 2.5vh;
+    padding: 0 1vw;
+}
+.icon-input2{
+    font-size: 2.5vh;
+    padding: 0 1vw;
+}
+.data-input {
+    width: 30vw;
+    height: 100%;
+    padding: .30em;
+    border-radius: 1vh;
+    border-style: solid;
+    font-size: 1em;
+  }
+  .data-input2 {
+    width: 10vw;
+    height: 100%;
+    padding: .30em;
+    border-radius: 1vh;
+    border-style: solid;
+    font-size: 1em;
+  }
+
+.gruop-buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1vh 0 1vh 0;
+  
+}
+
+.button{
+    margin: vw;
+    height: 4vh;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    font-size: 4vh;
+    color: rgb(14, 14, 15);
+    border-color: #1f242c;
+    border-style: solid;
+}
+
+.resultS{
+    margin: 2vw;
+    height: 6vh;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1vw;
+    font-size: 4vh;
+    color: rgb(20, 217, 63);
+
+}
+.result{
+    margin: 2vw;
+    height: 6vh;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1vw;
+    font-size: 4vh;
+    color: rgb(11, 32, 223);
+
+}
+
